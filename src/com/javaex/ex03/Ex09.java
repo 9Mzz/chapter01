@@ -6,7 +6,7 @@ public class Ex09 {
 public static void main(String[] args) {
 	Scanner sc = new Scanner(System.in);
 
-	System.out.println("과목을 선택하세요.\t (1. 자바 2. C++ 4. 파이썬)\t 과목번호: ");
+	System.out.println("과목을 선택하세요.\n (1. 자바 2. C++ 4. 파이썬)\n 과목번호: ");
 	int number = sc.nextInt();
 	if (number==1) {
 		System.out.println("R101호");
