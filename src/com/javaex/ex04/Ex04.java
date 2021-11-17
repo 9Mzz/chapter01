@@ -2,7 +2,7 @@ package com.javaex.ex04;
 
 import java.util.Scanner;
 
-public class Ex301 {
+public class Ex04 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
