@@ -7,7 +7,7 @@ public class Ex01 {
 		int i = 0;
 		while(i<=5) {
 			
-			System.out.println("i like java"+i); 
+			System.out.println("i like java"+i+tail); 
 			i++;
 			tail++;
 		}
