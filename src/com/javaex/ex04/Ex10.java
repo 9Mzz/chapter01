@@ -8,7 +8,7 @@ public class Ex10 {
 		for(int i=1; i<=20; i++) {
 		
 			//2의 배수 이면서 3의 배수이냐?? --> 6인가?
-			if ( i%2==0 && i%3==0 ) {
+			if ( i%2==0 || i%3==0 ) {
 				continue;
 			}
 			
