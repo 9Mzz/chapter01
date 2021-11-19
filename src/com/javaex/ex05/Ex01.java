@@ -22,9 +22,9 @@ public class Ex01 {
 		
 		System.out.println("======================================");
 
-		int ball[] = new int[6];
+		int ball[] = new int[8];
 		
-		for ( int i=0; i<6; i++) {
+		for ( int i=0; i<8; i++) {
 			ball[i] = ((int)(Math.random()*45))+1;
 		}
 		
@@ -33,17 +33,6 @@ public class Ex01 {
 		}
 		
 		System.out.println("=====================================");
-		
-		int a1[] = new int[8];
-		for ( int b=0; b<8; b++) {
-			a1[b] = ((int)(Math.random()*50))+1;
-		}
-
-		for (int c=0; c<8; c++) {
-			
-			System.out.println(a1[c]);
-		}
-		
 				
 	}
 		
